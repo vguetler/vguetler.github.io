@@ -7,20 +7,35 @@ show_sidebar: false
 permalink: /teaching/
 ---
 
+I have experience teaching undergraduate courses in issues related to sociology and technology. I am also training to become a certified software and data carpentry instructor so that I can teach social science majors programming and data analysis techniques using Python and R.
+
+Courses I have taught as:
+
 ## Graduate Instructor
 
-*SOCA 101 Introduction to Sociology, Fall 2019
+- SOCA 101 Introduction to Sociology, Fall 2019
 Syllabus
-*SOCA 101 Introduction to Sociology, Spring 2020
+- SOCA 101 Introduction to Sociology, Spring 2020
 Syllabus
-*SOCA 101 Introduction to Sociology, Spring 2020
+- SOCA 101 Introduction to Sociology, Spring 2020
 Syllabus
 
+## Teaching Assistant
 
 
 
-This is a page without a hero.
+## Software & Data Carpentry Workshops 
 
-To hide the hero, set `hide_hero: true` in the page's frontmatter. 
+Helper for the following workshops held at West Virginia University:
 
-Hiding the hero means that there will not be a title and subtitle displayed, so it will have to be added to the page content. 
+Basic R Workshop
+https://ncf0003.github.io/2020-03-07-wvu/
+
+Basic Python Workshop
+https://ncf0003.github.io/2020-01-25-wvu/
+
+Basic Python Workshop
+https://ncf0003.github.io/2019-10-26-wvu/
+
+
+
