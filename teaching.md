@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Page Without Hero
-description: This is a page with no hero
+title: Teaching
+description: My teaching experience
 hide_hero: true
 show_sidebar: false
-menubar: example_menu
+permalink: /teaching/
 ---
 
 # Page Without Hero

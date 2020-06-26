@@ -5,7 +5,7 @@ email: vguetler@gmail.com
 description: >
   Professional Website
 baseurl: "/"
-url: "vguetler.github.io"
+url: "/"
 permalink: pretty
 #favicon: /path/to/favicon.png
 gh_sponsor: chrisrhymes
