@@ -7,7 +7,17 @@ show_sidebar: false
 permalink: /teaching/
 ---
 
-# Page Without Hero
+## Graduate Instructor
+
+*SOCA 101 Introduction to Sociology, Fall 2019
+Syllabus
+*SOCA 101 Introduction to Sociology, Spring 2020
+Syllabus
+*SOCA 101 Introduction to Sociology, Spring 2020
+Syllabus
+
+
+
 
 This is a page without a hero.
 
