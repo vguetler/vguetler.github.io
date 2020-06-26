@@ -1,9 +1,11 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: Vivian Guetler
+subtitle: Vivian's Professional Website
 layout: page
 callouts: home_callouts
 show_sidebar: true
+hero_height: is-large
+
 ---
 
 # Bulma Clean Theme demo website
