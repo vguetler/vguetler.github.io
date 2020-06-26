@@ -2,7 +2,7 @@
 title: Page without sidebar
 subtitle: Demo page without the sidebar
 layout: page
-show_sidebar: false
+show_sidebar: false #show sidebar to true otherwise
 ---
 
 This is another sample page showing how a page can look without a sidebar. 

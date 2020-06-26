@@ -4,7 +4,7 @@ tagline: Vivian Guetler
 email: vguetler@gmail.com
 description: >
   Professional Website
-baseurl: "/vguetler"
+baseurl: "/"
 url: "vguetler.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png

@@ -3,6 +3,7 @@ title: Publications
 subtitle: My publications and work in progress
 layout: page
 show_sidebar: false
+permalink: /publications/
 ---
 
 This is another sample page showing how a page can look without a sidebar. 

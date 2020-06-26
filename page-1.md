@@ -5,9 +5,7 @@ layout: page
 show_sidebar: true
 ---
 
-This is a demo page showing the sidebar.
-
-To show the sidebar set show_sidebar to true in the page's frontmatter.
+ this is my page showing articles.
 
 ```yml
 title: Page With Sidebar

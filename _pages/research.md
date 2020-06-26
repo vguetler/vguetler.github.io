@@ -4,6 +4,7 @@ subtitle: My research projects
 layout: page
 show_sidebar: false
 permalink: /research/
+hide_footer: true
 ---
 
 This is another sample page showing how a page can look without a sidebar. 
