@@ -1,8 +1,8 @@
-- name: Teaching
-  link: /teaching/
-- name: Blog
-  link: /blog/
 - name: Research
   link: /research/
 - name: Publications
   link: /publications/
+- name: Teaching
+  link: /teaching/
+- name: Blog
+  link: /blog/
