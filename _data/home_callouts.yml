@@ -1,12 +1,12 @@
 style: is-light
 items:
-  - title: Multiple page layouts
-    subtitle: Including sidebar, menubar, tabs and callouts
+  - title: Research Interests
+    subtitle: NLP, ML, SNA...
     icon: fa-copy
-  - title: Blog included
-    subtitle: Layouts for blog and post pages included
+  - title: Teaching Interests
+    subtitle: sociology, crime, terrorism, methods: SNA, NLP, programming
     icon: fa-mail-bulk
-  - title: Works with GitHub Pages
+  - title: Portfolio
     subtitle: Quick and easy to get started
     icon: fa-github
     icon_brand: true
