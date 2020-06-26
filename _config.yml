@@ -1,11 +1,11 @@
 # Site Settings
-title: "Vivian Guetler"
-tagline: "Vivian Guetler"
-email: "vguetler@gmail.com"
+title: Vivian Guetler
+tagline: Vivian Guetler
+email: vguetler@gmail.com
 description: >
-  "Professional Website"
-baseurl: "/bulma-clean-theme"
-url: "https://www.csrhymes.com"
+  Professional Website
+baseurl: "/vguetler"
+url: "vguetler.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
 gh_sponsor: chrisrhymes

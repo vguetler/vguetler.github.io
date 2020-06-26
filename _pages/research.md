@@ -3,6 +3,7 @@ title: Research
 subtitle: My research projects
 layout: page
 show_sidebar: false
+permalink: /research/
 ---
 
 This is another sample page showing how a page can look without a sidebar. 
