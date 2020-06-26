@@ -4,6 +4,7 @@ title: CV
 layout: page
 show_sidebar: false #show sidebar to true otherwise
 permalink: /cv/
+hide_footer: true
 ---
 
 Here is my CV
