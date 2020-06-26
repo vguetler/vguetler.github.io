@@ -1,9 +1,9 @@
 # Site Settings
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
-email: your-email@domain.com
+title: "Vivian Guetler"
+tagline: "Vivian Guetler"
+email: "vguetler@gmail.com"
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  "Professional Website"
 baseurl: "/bulma-clean-theme"
 url: "https://www.csrhymes.com"
 permalink: pretty
