@@ -1,13 +1,16 @@
 ---
 title: Vivian Guetler
-subtitle: PhD Canditate in Sociology. Computational Social Scientist. Data Scientist
+subtitle: PhD Candidate in Sociology. 
+subtitle: Aspiring Computational Social Scientist & Data Scientist
 layout: page
 callouts: home_callouts
 show_sidebar: true
 hide_footer: true
 
 ---
-I am a PhD candidate in Sociology aspiring to be a computational social scientist merging social science, statistics and computer science tools and techniques to analyze individuals and groups behaviors and society’s problems.
+I am a PhD candidate in Sociology aspiring to be a computational social scientist merging social science, statistics and computer science tools and techniques to analyze behaviors and society’s problems.
+
+
 
 Find me at:
 

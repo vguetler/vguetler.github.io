@@ -1,12 +1,12 @@
 style: is-light
 items:
   - title: Research Interests
-    subtitle: NLP, ML, SNA...
+    subtitle: Cyberterrorism, crime, online deviance, social networks, ethical machine learning
     icon: fa-copy
   - title: Teaching Interests
-    subtitle: sociology, crime, terrorism, methods, SNA, NLP, programming
+    subtitle: Sociology, crime, terrorism, computational social science, data science, programming
     icon: fa-mail-bulk
-  - title: Portfolio
-    subtitle: my codes can be found here
+  - title: Research Methods
+    subtitle: Social Network Analysis, Natural Language Processing, Machine Learning, text-as-data, Statistics, Qualitative methods
     icon: fa-github
     icon_brand: true
