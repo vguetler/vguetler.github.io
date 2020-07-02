@@ -35,19 +35,19 @@ I am a PhD candidate in Sociology aspiring to be a computational social scientis
 <p><strong>Find Me at:</strong></p>
 <div class="buttons {% if include.centered %} is-centered {% endif %}">
     <a class="button is-medium is-facebook"
-       onclick="window.open('https://https://github.com/vguetler{{ site.url }}{{ page.url | prepend: site.baseurl }}');">
+       onclick="window.open('https://github.com/vguetler{{ site.url }}{{ page.url | prepend: site.baseurl }}');">
         <span class="icon"><i class="fab fa-github fa-lg"></i></span>
     </a>
     <a class="button is-medium is-twitter"
-       onclick="window.open('https://https://twitter.com/Vivfiona{{ site.url }}{{ page.url | prepend: site.baseurl }}');">
+       onclick="window.open('https://twitter.com/Vivfiona{{ site.url }}{{ page.url | prepend: site.baseurl }}');">
         <span class="icon"><i class="fab fa-twitter fa-lg"></i></span>
     </a>
     <a class="button is-medium is-linkedin"
-       onclick="window.open('https://https://www.linkedin.com/in/vivianguetler/{{ site.url }}{{ page.url | prepend: site.baseurl }}&title={{ page.title | url_encode }}&summary=&source=');">
+       onclick="window.open('https://www.linkedin.com/in/vivianguetler/{{ site.url }}{{ page.url | prepend: site.baseurl }}&title={{ page.title | url_encode }}&summary=&source=');">
         <span class="icon"><i class="fab fa-linkedin fa-lg"></i></span>
     </a>
-    <a class="button is-medium is-reddit"
-       onclick="window.open('https://codepen.io/vguetler/{{ site.url }}{{ page.url | prepend: site.baseurl }}');">
+    <a class="button is-medium is-codepen"
+       onclick="window.open('https://codepen.io/vguetler/">
         <span class="icon"><i class="fab fa-codepen fa-lg"></i></span>
     </a>
 </div>
