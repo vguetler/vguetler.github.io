@@ -11,9 +11,9 @@ I am a PhD candidate in Sociology aspiring to be a computational social scientis
 
 
 
-Find me at:
 
-<p><strong>Find me at</strong></p>
+
+<p><strong>Find me at:</strong></p>
 <a href="https://twitter.com/Vivfiona">
             <img src="img/Twitter_Social_Icon.png" alt="twitter icon">
         </a>
@@ -35,19 +35,19 @@ Find me at:
 <p><strong>Find Me at:</strong></p>
 <div class="buttons {% if include.centered %} is-centered {% endif %}">
     <a class="button is-medium is-facebook"
-       onclick="window.open('https://https://github.com/vguetler={{ site.url }}{{ page.url | prepend: site.baseurl }}');">
+       onclick="window.open('https://https://github.com/vguetler{{ site.url }}{{ page.url | prepend: site.baseurl }}');">
         <span class="icon"><i class="fab fa-github fa-lg"></i></span>
     </a>
     <a class="button is-medium is-twitter"
-       onclick="window.open('https://https://twitter.com/home={{ https://twitter.com/Vivfiona }}{{ page.url | prepend: site.baseurl }}');">
+       onclick="window.open('https://https://twitter.com/Vivfiona{{ site.url }}{{ page.url | prepend: site.baseurl }}');">
         <span class="icon"><i class="fab fa-twitter fa-lg"></i></span>
     </a>
     <a class="button is-medium is-linkedin"
-       onclick="window.open('https://https://www.linkedin.com/in/vivianguetler">
+       onclick="window.open('https://https://www.linkedin.com/in/vivianguetler/{{ site.url }}{{ page.url | prepend: site.baseurl }}&title={{ page.title | url_encode }}&summary=&source=');">
         <span class="icon"><i class="fab fa-linkedin fa-lg"></i></span>
     </a>
     <a class="button is-medium is-reddit"
-       onclick="window.open('https://reddit.com/submit?url={{ site.url }}{{ page.url | prepend: site.baseurl }}');">
-        <span class="icon"><i class="fab fa-reddit fa-lg"></i></span>
+       onclick="window.open('https://codepen.io/vguetler/{{ site.url }}{{ page.url | prepend: site.baseurl }}');">
+        <span class="icon"><i class="fab fa-codepen fa-lg"></i></span>
     </a>
 </div>

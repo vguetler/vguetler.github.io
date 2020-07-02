@@ -1,7 +1,6 @@
 style: is-light
 items:
   - title: Research Interests
-
     subtitle: Cyberterrorism, crime, online deviance, social networks, ethical machine learning
     icon: fa-copy
   - title: Teaching Interests
@@ -9,5 +8,5 @@ items:
     icon: fa-mail-bulk
   - title: Research Methods
     subtitle: Social Network Analysis, Natural Language Processing, Machine Learning, text-as-data, Statistics, Qualitative methods
-    icon: fa-pencil-square
+    icon: fa-github
     icon_brand: true
