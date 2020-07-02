@@ -31,9 +31,10 @@ I am a PhD candidate in Sociology aspiring to be a computational social scientis
        onclick="window.open('https://codepen.io/vguetler/')">
         <span class="icon"><i class="fab fa-codepen fa-lg"></i></span>
     </a>
-    <a class="button is-medium is-google-scholar"
+    <a class="button is-medium is-ai-google-scholar-square"
         onclick="window.open('https://scholar.google.com/citations?hl=en&user=0G8LgsYAAAAJ&view_op=list_works&authuser=1 gmla=AJsN-F4inPXhVAoqjhbLADKcJZ0C6FCbSCyDNQ5ARO_g85PmDg8C_cxDhNn2E1yzB8souySN8xp1zALUKyo1FCkYIISa-iQ9vA')">
         <span class="icon"><i class="fab fa-google-scholar fa-lg"></i></span>  
+        <span class="icon"><i class= "ai-google-scholar-square ai-3x"></i><span>
     </a>
 </div>
 

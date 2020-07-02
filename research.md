@@ -15,14 +15,3 @@ My dissertation focuses on online criminal behaviors (cyberterrorism), specifica
 
 # Working Papers under preparation
 
-
-
-
-
-{% if page.toc %}
-    {% assign contentsTitle = page.toc_title | default: 'Contents' %}
-    {% include toc.html html=content class='menu-list' h_min=2 h_max=3 contents_title=contentsTitle %}
-{% endif %}
-<div class="content">
-    {{ content }}
-</div>
