@@ -39,11 +39,11 @@ Find me at:
         <span class="icon"><i class="fab fa-github fa-lg"></i></span>
     </a>
     <a class="button is-medium is-twitter"
-       onclick="window.open('https://https://twitter.com/Vivfiona={{ site.url }}{{ page.url | prepend: site.baseurl }}');">
+       onclick="window.open('https://https://twitter.com/home={{ https://twitter.com/Vivfiona }}{{ page.url | prepend: site.baseurl }}');">
         <span class="icon"><i class="fab fa-twitter fa-lg"></i></span>
     </a>
     <a class="button is-medium is-linkedin"
-       onclick="window.open('https://https://www.linkedin.com/in/vivianguetler/={{ site.url }}{{ page.url | prepend: site.baseurl }}&title={{ page.title | url_encode }}&summary=&source=');">
+       onclick="window.open('https://https://www.linkedin.com/in/vivianguetler">
         <span class="icon"><i class="fab fa-linkedin fa-lg"></i></span>
     </a>
     <a class="button is-medium is-reddit"
