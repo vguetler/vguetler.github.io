@@ -47,7 +47,12 @@ I am a PhD candidate in Sociology aspiring to be a computational social scientis
         <span class="icon"><i class="fab fa-linkedin fa-lg"></i></span>
     </a>
     <a class="button is-medium is-codepen"
-       onclick="window.open('https://codepen.io/vguetler/">
+       onclick="window.open('https://codepen.io/vguetler/')">
         <span class="icon"><i class="fab fa-codepen fa-lg"></i></span>
+    </a>
+    <a class="button is-medium is-codepen"
+        href="https://codepen.io/vguetler/">
+        <span class="icon"><i class="fab fa-codepen fa-lg"></i></span>  
+        </a>
     </a>
 </div>
