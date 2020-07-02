@@ -8,6 +8,7 @@ hide_footer: true
 ---
 
 
+
 <p><strong>Share</strong></p>
 <div class="buttons {% if include.centered %} is-centered {% endif %}">
     <a class="button is-medium is-facebook"
