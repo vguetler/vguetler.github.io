@@ -41,6 +41,8 @@ I am a PhD candidate in Sociology aspiring to be a computational social scientis
 
 
 
+
+
  <footer>
     Vivian Guetler 2020. Theme built by @ Chris S. Rhymes.
 </footer>

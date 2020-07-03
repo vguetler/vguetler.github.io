@@ -6,7 +6,7 @@ hide_hero: true
 show_sidebar: false
 permalink: /teaching/
 hide_footer: true
-pdf: /path/to/image.pdf
+file: /path/to/file.pdf
 ---
 
 I have experience teaching undergraduate courses in issues related to sociology and technology. I am also training to become a certified software and data carpentry instructor so that I can teach social science majors programming and data analysis techniques using Python and R.
