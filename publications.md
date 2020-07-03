@@ -10,17 +10,20 @@ hide_footer: true
 
 # Conference Proceedings
 
-<a href ="https://dl.acm.org/doi/abs/10.1145/3351095.3372874" target="_blank">Toward Situated Interventions for Algorithmic Equity: Lessons from the Field</a> \ \ 
+<a href ="https://dl.acm.org/doi/abs/10.1145/3351095.3372874" target="_blank">Toward Situated Interventions for Algorithmic Equity: Lessons from the Field</a><br/> 
 Katell, Michael; Young, Meg; Dailey, Dharma; Herman, Bernease; **Guetler, Vivian**; Tam, Aaron; Bintz, Corinne; Raz, Daniella and Krafft, P. M. (2020)<br/>
 Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency, Association for Computing Machinery.<br/>
 
-<a href = "http://hdl.handle.net/2142/106571" target="_blank">A toolkit for algorithmic equity and community empowerment</a>  Michael Katell, Meg Young, Bernease Herman, Dharma Dailey, Corinne Binz, **Vivian Guetler**, Daniella Raz, Aaron Tam, PM Krafft (2020)  iConference 2020 Proceedings. 
+<a href = "http://hdl.handle.net/2142/106571" target="_blank">A toolkit for algorithmic equity and community empowerment</a> <br/>
+Michael Katell, Meg Young, Bernease Herman, Dharma Dailey, Corinne Binz, **Vivian Guetler**, Daniella Raz, Aaron Tam, PM Krafft (2020)<br/>
+iConference 2020 Proceedings. 
 
 
 
 # Preprints
 
-<a href="https://arxiv.org/abs/1912.02943" target="_blank">An Algorithmic Equity Toolkit for Technology Audits by Community Advocates and Activists</a>  Katell, Michael; Young, Meg; Dailey, Dharma; Herman, Bernease; **Guetler, Vivian**; Tam, Aaron; Bintz, Corinne; Raz, Daniella and Krafft, P. M. (2019) <br/>
+<a href="https://arxiv.org/abs/1912.02943" target="_blank">An Algorithmic Equity Toolkit for Technology Audits by Community Advocates and Activists</a> <br/>
+Katell, Michael; Young, Meg; Dailey, Dharma; Herman, Bernease; **Guetler, Vivian**; Tam, Aaron; Bintz, Corinne; Raz, Daniella and Krafft, P. M. (2019) <br/>
 arXiv preprint 1912.02943
 
 

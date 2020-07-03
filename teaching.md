@@ -14,8 +14,7 @@ Courses I have taught as:
 
 # Graduate Instructor
 
-- SOCA 101 Introduction to Sociology, Fall 2019
--(Syllabus link)
+- SOCA 101 Introduction to Sociology, Fall 2019 (<a href="pdf/SOCA101f19_SyllabusVG.pdf" target="_blank"> Syllabus</a>
 - SOCA 101 Introduction to Sociology, Spring 2020
 -(Syllabus link)
 - SOCA 101 Introduction to Sociology, Spring 2020
