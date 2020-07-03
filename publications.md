@@ -10,6 +10,11 @@ hide_footer: true
 
 # Conference Proceedings
 
+<a href ="https://dl.acm.org/doi/abs/10.1145/3351095.3372874" target="_blank">Toward Situated Interventions for Algorithmic Equity: Lessons from the Field</a>
+Katell, Michael and Young, Meg and Dailey, Dharma and Herman, Bernease and **Guetler, Vivian** and Tam, Aaron and Bintz, Corinne and Raz, Daniella and Krafft, P. M. (2020)
+Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency, ACM
+
+
 @inproceedings{10.1145/3351095.3372874,
 author = {Katell, Michael and Young, Meg and Dailey, Dharma and Herman, Bernease and Guetler, Vivian and Tam, Aaron and Bintz, Corinne and Raz, Daniella and Krafft, P. M.},
 title = {Toward Situated Interventions for Algorithmic Equity: Lessons from the Field},
