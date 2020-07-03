@@ -11,6 +11,9 @@ permalink: pretty
 #gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 
+#theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
+
 paginate: 5
 paginate_path: "/blog/page:num"
 
@@ -76,3 +79,4 @@ collections:
     layout: product
     image: https://via.placeholder.com/800x600
     show_sidebar: false
+
