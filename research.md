@@ -15,7 +15,7 @@ I am also interested in analyzing fairness, accountability, transparency and eth
 <a href="https://www.aclu-wa.org/AEKit" target="_blank">Algorithmic Equity Toolkit</a>
     
 
-# Papers under preparation
+# Papers in Progress
 
 Terrorists of a Feather Flock Together: Homophily & Prestige in Dark Networks.
 
