@@ -30,14 +30,12 @@ I have been a teaching assistant in several undergraduate courses (see CV)
 
 Helper for the following workshops held at West Virginia University:
 
-- Basic R Workshop
-https://ncf0003.github.io/2020-03-07-wvu/
+- <a href ="https://ncf0003.github.io/2020-03-07-wvu/" target="_blank">Basic R Workshop</a>
 
-- Basic Python Workshop
-https://ncf0003.github.io/2020-01-25-wvu/
+- <a href ="https://ncf0003.github.io/2020-01-25-wvu/" target="_blank">Basic Python Workshop</a>
 
-- Basic Python Workshop
-https://ncf0003.github.io/2019-10-26-wvu/
+- <a href ="https://ncf0003.github.io/2019-10-26-wvu/" target="_blank">Basic Python Workshop</a>
+
 
 
 
