@@ -1,12 +1,12 @@
 style: is-light
 items:
   - title: Research Interests
-    subtitle: Cyberterrorism, crime, online deviance, social networks, ethical machine learning
+    subtitle: Cyberterrorism, crime, online deviance, social networks, (ethical) machine learning
     icon: fa-copy
   - title: Teaching Interests
-    subtitle: Sociology, crime, terrorism, computational social science, data science, programming
+    subtitle: Sociology, crime, terrorism, social network analysis, computational social science, data science, NLP, text-as-data, programming
     icon: fa-mail-bulk
-  - title: Research Methods
-    subtitle: Social Network Analysis, Natural Language Processing, Machine Learning, text-as-data, Statistics, Qualitative methods
+  - title: Programming Skills
+    subtitle: HTML, CSS, JavaScript, R, Python, SQL, Tableau, Git/Github
     icon: fa-github
     icon_brand: true
