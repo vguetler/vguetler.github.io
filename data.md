@@ -16,21 +16,14 @@ The following are some of data analysis and visualization projects done using Py
 
 YouTube live coding tutorials on various data analyis tasks in Python and R created for beginners. 
 
-<div class="columns">
-  <div class="column">1</div>
-  <div class="column">2</div>
-  <div class="column">3</div>
-  <div class="column">4</div>
-  <div class="column">5</div>
-</div>
 
 <div class="columns is-mobile">
   <div class="column is-three-quarters-mobile is-two-thirds-tablet is-half-desktop is-one-third-widescreen is-one-quarter-fullhd">
-    <code>is-three-quarters-mobile</code><br>
-    <code>is-two-thirds-tablet</code><br>
-    <code>is-half-desktop</code><br>
-    <code>is-one-third-widescreen</code><br>
-    <code>is-one-quarter-fullhd</code>
+    <code>Live-coding Tutorials </code><br>
+    <code>Social Network Analysis</code><br>
+    <code>Topic Modeling</code><br>
+    <code>NLP</code><br>
+    <code>Machine Learning</code>
   </div>
   <div class="column">2</div>
   <div class="column">3</div>
