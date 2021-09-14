@@ -21,13 +21,7 @@ YouTube live coding tutorials on various data analyis tasks in Python and R crea
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL6nx03_pduxUL_F-HGZNAAuch418D2l92" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
-
-<figure class="image is-16by9">
-  <iframe class="has-ratio" width="640" height="360" 
-  src= "https://www.youtube.com/embed/videoseries?list=PL6nx03_pduxWDrUoWCB-MaKBfRRSiIjlG" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> frameborder="0" allowfullscreen></iframe>
-</figure>
+# Other Data Analysis
 
 <div class="columns is-mobile">
   <div class="column is-three-quarters-mobile is-two-thirds-tablet is-half-desktop is-one-third-widescreen is-one-quarter-fullhd">
