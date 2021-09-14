@@ -43,5 +43,5 @@ YouTube live coding tutorials on various data analyis tasks in Python and R crea
 </figure>
 
 <figure class="image is-16by9">
-  <iframe class="has-ratio" width="640" height="360" src="https://www.youtube.com/embed/UCPzO5TjnYnBzfUVj6fI3pdw" frameborder="0" allowfullscreen></iframe>
+  <iframe class="has-ratio" width="640" height="360" src="<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL6nx03_pduxWDrUoWCB-MaKBfRRSiIjlG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>" frameborder="0" allowfullscreen></iframe>
 </figure>
