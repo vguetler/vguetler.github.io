@@ -35,6 +35,10 @@ I am a PhD candidate in Sociology aspiring to be a computational social scientis
         onclick="window.open('https://scholar.google.com/citations?hl=en&user=0G8LgsYAAAAJ&view_op=list_works&authuser=1 gmla=AJsN-F4inPXhVAoqjhbLADKcJZ0C6FCbSCyDNQ5ARO_g85PmDg8C_cxDhNn2E1yzB8souySN8xp1zALUKyo1FCkYIISa-iQ9vA')">
         <span class="icon"><i class="fab fa-google fa-lg"></i></span>  
     </a>
+    <a class="button is-medium is-fa-youtube"
+        onclick="window.open('https://www.youtube.com/channel/UCPzO5TjnYnBzfUVj6fI3pdw')">
+        <span class="icon"><i class="fab fa-youtube fa-lg"></i></span>  
+    </a>
 </div>
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-5256-0104" href="https://orcid.org/0000-0001-5256-0104" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-5256-0104</a></div>

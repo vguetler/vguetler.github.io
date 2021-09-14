@@ -18,6 +18,8 @@ Courses I have taught as:
 - SOCA 101 Introduction to Sociology, Fall 2019 <a href="/files/SOCA101f19_SyllabusVG.pdf" target="_blank"> Syllabus</a>
 - SOCA 101 Introduction to Sociology, Spring 2020 <a href="/files/Soca101s20_SyllabusVG.pdf" target="_blank"> Syllabus</a>
 - SOCA 101 Introduction to Sociology, Spring 2020
+- SOCA 101 Introduction to Sociology, Fall 2021 (in-person)
+- SOCA 101 Introduction to Sociology, Fall 2021 (online)
 
 
 
@@ -28,7 +30,7 @@ I have been a teaching assistant in several undergraduate courses (see CV)
 
 # Software & Data Carpentry Workshops 
 
-Helper for the following workshops held at West Virginia University:
+Instructor and Helper for the following workshops held at West Virginia University:
 
 - <a href ="https://ncf0003.github.io/2020-03-07-wvu/" target="_blank">Basic R Workshop</a>
 
