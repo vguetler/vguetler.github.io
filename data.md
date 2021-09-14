@@ -24,4 +24,24 @@ YouTube live coding tutorials on various data analyis tasks in Python and R crea
   <div class="column">5</div>
 </div>
 
+<div class="columns is-mobile">
+  <div class="column is-three-quarters-mobile is-two-thirds-tablet is-half-desktop is-one-third-widescreen is-one-quarter-fullhd">
+    <code>is-three-quarters-mobile</code><br>
+    <code>is-two-thirds-tablet</code><br>
+    <code>is-half-desktop</code><br>
+    <code>is-one-third-widescreen</code><br>
+    <code>is-one-quarter-fullhd</code>
+  </div>
+  <div class="column">2</div>
+  <div class="column">3</div>
+  <div class="column">4</div>
+  <div class="column">5</div>
+</div>
 
+<figure class="image is-128x128">
+  <img src="img/VivianCodes.png">
+</figure>
+
+<figure class="image is-16by9">
+  <iframe class="has-ratio" width="640" height="360" src="https://www.youtube.com/channel/UCPzO5TjnYnBzfUVj6fI3pdw" frameborder="0" allowfullscreen></iframe>
+</figure>
