@@ -4,7 +4,7 @@ title: Data Science Projects
 description: My data science projects
 hide_hero: true
 show_sidebar: false
-permalink: /teaching/
+permalink: /data/
 hide_footer: true
 
 ---
