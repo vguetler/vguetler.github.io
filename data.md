@@ -39,9 +39,9 @@ YouTube live coding tutorials on various data analyis tasks in Python and R crea
 </div>
 
 <figure class="image is-128x128">
-  <img src="img/VivianCodes.png">
+  <img src= "img/VivianCodes.png">
 </figure>
 
 <figure class="image is-16by9">
-  <iframe class="has-ratio" width="640" height="360" src="https://www.youtube.com/channel/UCPzO5TjnYnBzfUVj6fI3pdw" frameborder="0" allowfullscreen></iframe>
+  <iframe class="has-ratio" width="640" height="360" src="https://www.youtube.com/embed/UCPzO5TjnYnBzfUVj6fI3pdw" frameborder="0" allowfullscreen></iframe>
 </figure>
