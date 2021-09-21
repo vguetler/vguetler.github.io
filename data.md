@@ -31,13 +31,6 @@ YouTube live coding tutorials on various data analyis tasks in Python and R crea
     <code>NLP</code><br>
     <code>Machine Learning</code>
   </div>
-  <div class="column">2</div>
-  <div class="column">3</div>
-  <div class="column">4</div>
-  <div class="column">5</div>
 </div>
 
 
-<figure class="image is-128x128">
-  <img src= "img/VivianCodes.png">
-</figure>
