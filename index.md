@@ -10,7 +10,7 @@ hide_footer: true
 I am a PhD candidate in Sociology aspiring to be a computational social scientist merging social science, statistics and computer science tools and techniques to analyze behaviors and society’s problems.
 
 
-
+<a class="twitter-timeline" href="https://twitter.com/Vivfiona?ref_src=twsrc%5Etfw">Tweets by Vivfiona</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p><strong>Find Me at:</strong></p>
