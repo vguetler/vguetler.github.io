@@ -9,9 +9,7 @@ hide_footer: true
 ---
 I am a PhD candidate in Sociology aspiring to be a computational social scientist and data scientist. My research focuses on merging social science, statistics and computer science tools and techniques to analyze cybercrime, cyberterrorist, social networks and behaviors and social implications of technologies.
 
-My dissertation research focuses on the application of novel computational text analysis of terrorists content and networks on the dark web. 
-
-I am a Carpentries Instructor <https://carpentries.org/instructors/> 
+I am a <a href="https://carpentries.org/instructors/">Carpentries Instructor</a> and teach R and Python workshops and live-coding tutorials on <a href="https://www.youtube.com/channel/UCPzO5TjnYnBzfUVj6fI3pdw">Vivian Codes</a> as well as undergraduate courses in the Sociology department. 
 
 
 
