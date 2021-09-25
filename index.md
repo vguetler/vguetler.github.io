@@ -9,7 +9,7 @@ hide_footer: true
 ---
 I am a PhD candidate in Sociology aspiring to be a computational social scientist and data scientist. My research focuses on merging social science, statistics and computer science tools and techniques to analyze cybercrime, cyberterrorist, social networks and behaviors and social implications of technologies.
 
-I am a <a href="https://carpentries.org/instructors/">Carpentries Instructor</a> and teach R and Python workshops and live-coding tutorials on <a href="https://www.youtube.com/channel/UCPzO5TjnYnBzfUVj6fI3pdw">Vivian Codes</a> as well as undergraduate courses in the Sociology department. 
+I am a <a href="https://carpentries.org/instructors/" target= "_blank">Carpentries Instructor</a> and teach R and Python workshops and live-coding tutorials on <a href="https://www.youtube.com/channel/UCPzO5TjnYnBzfUVj6fI3pdw" target = "_blank">Vivian Codes</a> as well as undergraduate courses in the Sociology department. 
 
 
 
@@ -17,7 +17,7 @@ I am a <a href="https://carpentries.org/instructors/">Carpentries Instructor</a>
 
 
 <p><strong>Find Me at:</strong></p>
-<div class="buttons {% if include.centered %} is-centered {% endif %}">
+<div class="buttons is-centered {% if include.centered %} is-centered {% endif %}">
     <a class="button is-medium is-facebook"
        onclick="window.open('https://github.com/vguetler')">
         <span class="icon"><i class="fab fa-github fa-lg"></i></span>
