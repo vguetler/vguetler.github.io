@@ -14,7 +14,7 @@ permalink: pretty
 #theme: bulma-clean-theme
 remote_theme: chrisrhymes/bulma-clean-theme
 
-paginate: 4
+paginate: 7
 paginate_path: "/blog/page:num"
 
 # Disqus Comments
