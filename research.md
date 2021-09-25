@@ -15,7 +15,19 @@ I am also interested in analyzing fairness, accountability, transparency and eth
 <a href="https://www.aclu-wa.org/AEKit" target="_blank">Algorithmic Equity Toolkit</a>
     
 
-# Papers in Progress
+# Manuscript in Progress
+
+Guetler V & Wozniak J. Social Bond Theory and Violent Extremism - under review
+
+Katie Corcoran, Chris Scheitle, & Vivian Guetler. Congregational Competition or Collaboration?: A Social Network Analysis of Inter-congregational Ties in a Local Religious Market - under review
+
+Vivian Guetler, Meg Young, Michael Katell, Dharma Dailey, Bernease Herman, Aaron Tam, Corinne Bintz, Daniella Raz and P.M Krafft. Where does fairness and accuracy lead us? Research through design with community organizations - under review
+
+Vivian Guetler. Juvenile Female Hackers: Sociological Factors Associated with Juvenile Cybercrime Behaviors.
+
+Examining the Dark Web: Research Design and Methods of Textual Analysis for Detecting Online Extremism
+
+Online Social Learning, Virtual Networks, Social Media and Violent Extremism in the U.S.
 
 Terrorists of a Feather Flock Together: Homophily & Prestige in Dark Networks.
 
