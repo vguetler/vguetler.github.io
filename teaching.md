@@ -9,7 +9,7 @@ hide_footer: true
 
 ---
 
-I have experience teaching undergraduate courses in issues related to sociology and technology. I am also training to become a certified software and data carpentry instructor so that I can teach social science majors programming and data analysis techniques using Python and R.
+I have experience teaching undergraduate courses in issues related to sociology and technology. I am  a certified software and data carpentry instructor so that I can teach social science majors programming and data analysis techniques using Python and R.
 
 Courses I have taught as:
 

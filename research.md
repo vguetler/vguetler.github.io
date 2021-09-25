@@ -17,15 +17,15 @@ I am also interested in analyzing fairness, accountability, transparency and eth
 
 # Manuscript in Progress
 
-Guetler V & Wozniak J. Social Bond Theory and Violent Extremism - under review
+Guetler V & Wozniak J. (2020). Social Bond Theory and Violent Extremism - under review
 
-Katie Corcoran, Chris Scheitle, & Vivian Guetler. Congregational Competition or Collaboration?: A Social Network Analysis of Inter-congregational Ties in a Local Religious Market - under review
+Katie Corcoran, Chris Scheitle, & Vivian Guetler. (2020). Congregational Competition or Collaboration?: A Social Network Analysis of Inter-congregational Ties in a Local Religious Market - under review
 
-Vivian Guetler, Meg Young, Michael Katell, Dharma Dailey, Bernease Herman, Aaron Tam, Corinne Bintz, Daniella Raz and P.M Krafft. Where does fairness and accuracy lead us? Research through design with community organizations - under review
+Vivian Guetler, Meg Young, Michael Katell, Dharma Dailey, Bernease Herman, Aaron Tam, Corinne Bintz, Daniella Raz and P.M Krafft. (2021). Where does fairness and accuracy lead us? Research through design with community organizations - under review
 
-Vivian Guetler. Juvenile Female Hackers: Sociological Factors Associated with Juvenile Cybercrime Behaviors.
+Vivian Guetler. (2021). Juvenile Female Hackers: Sociological Factors Associated with Juvenile Cybercrime Behaviors.
 
-Examining the Dark Web: Research Design and Methods of Textual Analysis for Detecting Online Extremism
+Vivian Guetler. (2021). Examining the Dark Web: Research Design and Methods of Textual Analysis for Detecting Online Extremism
 
 Online Social Learning, Virtual Networks, Social Media and Violent Extremism in the U.S.
 
