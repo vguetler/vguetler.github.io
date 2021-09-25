@@ -17,7 +17,7 @@ I am a <a href="https://carpentries.org/instructors/" target= "_blank">Carpentri
 
 
 <p><strong>Find Me at:</strong></p>
-<div class="buttons is-centered {% if include.centered %} is-centered {% endif %}">
+<div class="buttons {% if include.centered %} is-centered {% endif %}">
     <a class="button is-medium is-facebook"
        onclick="window.open('https://github.com/vguetler')">
         <span class="icon"><i class="fab fa-github fa-lg"></i></span>

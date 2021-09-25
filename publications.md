@@ -18,6 +18,13 @@ Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency
 Michael Katell, Meg Young, Bernease Herman, Dharma Dailey, Corinne Binz, **Vivian Guetler**, Daniella Raz, Aaron Tam, PM Krafft (2020)<br/>
 iConference 2020 Proceedings. 
 
+<a href = "https://dl.acm.org/doi/abs/10.1145/3442188.3445938" target= "_blank"> An Action-Oriented AI Policy Toolkit for Technology Audits by Community Advocates and Activists</a><br/>
+PM Krafft, Meg Young, Michael Katell, Jennifer E Lee, Shankar Narayan, Micah Epstein, Dharma Dailey, Bernease Herman, Aaron Tam, **Vivian Guetler**, Corinne Bintz, Daniella Raz, Pa Ousman Jobe, Franziska Putz, Brian Robick, Bissan Barghouti. (2021). <br/>
+Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency.
+
+<a href = "https://dl.acm.org/doi/abs/10.1145/3461702.3462627" target = "_blank"> Face Mis-ID: An Interactive Pedagogical Tool Demonstrating Disparate Accuracy Rates in Facial Recognition</a><br/>
+Daniella Raz, Corinne Bintz, **Vivian Guetler**, Aaron Tam, Michael Katell, Dharma Dailey, Bernease Herman, PM Krafft, Meg Young. (2021).
+AIES '21: Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society, July 2021 
 
 
 # Preprints
