@@ -16,12 +16,15 @@ I have experience teaching R and Python workshops to undergraduate, graduate stu
 
 Instructor and Helper for the following workshops held at West Virginia University:
 
-- <a href ="https://ncf0003.github.io/2020-03-07-wvu/" target="_blank">Basic R Workshop</a>
+
+- <a href ="https://ncf0003.github.io/2020-03-07-wvu/" target="_blank">Software Carpentry Basic R Workshop</a>
+I was a Helper for a two day Basic R Workshop in West Virginia University. March 7-8, 2020
 
 - <a href ="https://ncf0003.github.io/2020-01-25-wvu/" target="_blank">Basic Python Workshop</a>
+I was a Helper for a two day Python Workshop in West Virginia University. January 25-26, 2020
 
 - <a href ="https://ncf0003.github.io/2019-10-26-wvu/" target="_blank">Basic Python Workshop</a>
-
+I was a Helper for a two day Python Workshop in West Virginia University. October 26-27, 2019
 
 
 
