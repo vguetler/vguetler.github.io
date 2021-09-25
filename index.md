@@ -7,7 +7,12 @@ show_sidebar: false
 hide_footer: true
 
 ---
-I am a PhD candidate in Sociology aspiring to be a computational social scientist merging social science, statistics and computer science tools and techniques to analyze behaviors and society’s problems.
+I am a PhD candidate in Sociology aspiring to be a computational social scientist and data scientist. My research focuses on merging social science, statistics and computer science tools and techniques to analyze cybercrime, cyberterrorist, social networks and behaviors and social implications of technologies.
+
+My dissertation research focuses on the application of novel computational text analysis of terrorists content and networks on the dark web. 
+
+I am a Carpentries Instructor <https://carpentries.org/instructors/> 
+
 
 
 <a class="twitter-timeline" data-width="300" data-height="500" href="https://twitter.com/Vivfiona?ref_src=twsrc%5Etfw">Tweets by Vivfiona</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
