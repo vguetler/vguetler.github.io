@@ -16,14 +16,14 @@ I am a certified Software Carpentry instructor and have experience teaching R an
 
 Instructor and Helper for the following workshops held at West Virginia University:
 
-- <a href = "https://ncf0003.github.io/2021-11-06-wvu/" target = "_blank"><b>R Programming</b></a>
+- <a href = "https://ncf0003.github.io/2021-11-06-wvu/" target = "_blank"><b>Programming in R</b></a>
 <br/>
 Instructor for a 2 day R, Unix, Git Programming workshop, November 6-7, 2021 <br/>
 
-- <a href = "https://ncf0003.github.io/2021-10-23-wvu/" target = "_blank"><b>Python Programming</b></a> <br/>
+- <a href = "https://ncf0003.github.io/2021-10-23-wvu/" target = "_blank"><b>Programming in Python</b></a> <br/>
 Instructor for a 2 day Python, Unix, Git Programming workshop, October 23-24, 2021 <br/>
 
-- Taught undergraduates <b>R and Python Programming</b> languages during the Summer Undergraduate Research Experience (SURE) program at West Virginia University in June 2021.
+- Taught undergraduates <b>Programming in R and Python</b> languages during the Summer Undergraduate Research Experience (SURE) program at West Virginia University in June 2021.
 
 - <a href = "https://ncf0003.github.io/2021-03-09-wvu/" target = "_blank"><b>Genomics Workshop</b></a>
 <br/>
