@@ -10,7 +10,7 @@ hide_hero: true
 
 Please find my CV and Resume here:
 
-<a href="/files/GuetlerV_CV_2021.pdf" target="_blank"> CV </a>
+<a href="/files/GuetlerV_CV102022.pdf" target="_blank"> CV </a>
 
 
 
